@@ -7,10 +7,7 @@
 Accomplished Java Developer with 11 years of experience in designing, developing, and implementing enterprise level applications. Proficient in the full software development life cycle, with a deep understanding of object-oriented programming and design principles. Adept at using modern technologies and frameworks such as OOP, OOD, Spring, Spring boot, Hibernate, JSF, Angular, JPA2, Azure Cloud, continuous integration and continuous delivery development processes on Azure Devops, use of Maven, Code versioning on GIT and outstanding experience working in Agile/Scrum, full SDLC, Unix/Linux based systems, Unit and Integration Testing, HTML, Cascading Style Sheets (CSS), J2EE, Docker, Apigee, Oracle Database, Cosmos DB, PostgreSQL and MySQL to deliver high-quality solutions. Passionate about microservices architecture. Founder at [MicroServicios.co](https://microservicios.co/).
 
 
-### My Stack
-![image](https://user-images.githubusercontent.com/125073292/219896765-3fdc5fff-c947-4d68-8193-3952cb792207.png)
-
-![image](https://user-images.githubusercontent.com/125073292/219896248-2ef373e1-244f-4f34-a6c6-7b0839e060b7.png)
+### My Stack 👋
 
 ![image](https://user-images.githubusercontent.com/125073292/219877464-75d6862d-a48f-4e5e-9db6-10b0a96451b2.png)
 
